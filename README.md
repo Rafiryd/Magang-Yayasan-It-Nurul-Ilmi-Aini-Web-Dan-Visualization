@@ -1,8 +1,8 @@
 # Magang-Yayasan-It-Nurul-Ilmi-Aini-Web-Dan-Visualization
 
-# Visualization study tracer akreditas
+ Visualization Study Tracer Akreditas
 ![Alt Text](visualizations.png)
-# data sementara di hasil kan pada pengisian pada siswa siswa alumni
+ Data Sementara Di HasilKan Pada Pengisian Pada Siswa Siswa Alumni
 ![Alt Text](data.png)
-# website
+ Website
 ![Alt Text](website.png)
