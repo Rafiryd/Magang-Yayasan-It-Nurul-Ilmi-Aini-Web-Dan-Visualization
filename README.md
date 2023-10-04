@@ -1,5 +1,9 @@
 # Magang-Yayasan-It-Nurul-Ilmi-Aini-Web-Dan-Visualization
 
+              Masalah di hadapi
+              
+![Alt Text](fishbone.jpg)
+
               Visualization Study Tracer Akreditas\
  
 ![Alt Text](visualizations.png)
