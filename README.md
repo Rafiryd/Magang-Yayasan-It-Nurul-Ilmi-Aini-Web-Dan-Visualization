@@ -1,6 +1,6 @@
 # Magang-Yayasan-It-Nurul-Ilmi-Aini-Web-Dan-Visualization
 
-              Masalah di hadapi
+              Masalah di hadapi pelanggan (murid wali)
               
 ![Alt Text](fishbone.jpg)
 
